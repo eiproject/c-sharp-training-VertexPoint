@@ -18,10 +18,10 @@ namespace TrainingAccessModifier
     //}
     //}
     //}
-
-    SplittingSentences(string sentence)
+    internal string[] Words;
+    internal SplittingSentences(string sentence)
     {
-
+      Words = sentence.Split();
     }
   }
 }

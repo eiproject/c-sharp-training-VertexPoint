@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Lab Formulatrix\\TrainingAccessModifier\\TrainingAccessModifier.csproj",
+      "projectUniqueName": "C:\\Lab Formulatrix\\TrainingSolution_1\\TrainingAccessModifier\\TrainingAccessModifier.csproj",
       "projectName": "TrainingAccessModifier",
-      "projectPath": "C:\\Lab Formulatrix\\TrainingAccessModifier\\TrainingAccessModifier.csproj",
+      "projectPath": "C:\\Lab Formulatrix\\TrainingSolution_1\\TrainingAccessModifier\\TrainingAccessModifier.csproj",
       "packagesPath": "C:\\Users\\kosma\\.nuget\\packages\\",
-      "outputPath": "C:\\Lab Formulatrix\\TrainingAccessModifier\\obj\\",
+      "outputPath": "C:\\Lab Formulatrix\\TrainingSolution_1\\TrainingAccessModifier\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
